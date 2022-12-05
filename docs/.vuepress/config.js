@@ -62,6 +62,7 @@ module.exports = {
       { text: '问答', link: '/pages/9cc27d/' },
       { text: '赞助', link: '/pages/1b12ed/' },*/
       { text: 'Web渗透', link: '/pages/b66292/' },
+      { text: '论文', link: '/pages/8df1d6/' },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
