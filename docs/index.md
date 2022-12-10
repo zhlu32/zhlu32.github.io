@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: 谜底安全
+heroText: MDSec  
 tagline: 探索软件安全与软件质量的本源问题 🚀
-actionText: 开启探索 🎖
+actionText: 开启探索
 actionLink: /pages/b66292/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
