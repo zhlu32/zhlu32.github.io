@@ -21,6 +21,9 @@ module.exports = {
 
   // 主题配置
   themeConfig: {
+    // navbar: false,
+    search: false,
+    // smoothScroll: true,
     nav: [
       { text: '首页', link: '/' },
       /*{
@@ -62,6 +65,7 @@ module.exports = {
       { text: '问答', link: '/pages/9cc27d/' },
       { text: '赞助', link: '/pages/1b12ed/' },*/
       { text: 'Web渗透', link: '/pages/b66292/' },
+      { text: '安全开源项目', link: '/pages/056954/' },
       { text: '论文', link: '/pages/8df1d6/' },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
@@ -193,7 +197,7 @@ module.exports = {
   ],
 
   markdown: {
-    // lineNumbers: true,
+    lineNumbers: true,
     extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
 
